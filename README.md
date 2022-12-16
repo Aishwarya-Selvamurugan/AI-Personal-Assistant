@@ -5,4 +5,4 @@ Now in our voice assistance system, it can act as a basic medical prescriber, da
 The main agenda of our voice assistance makes people smart and give instant and computed results. 
 Natural Language Processing algorithm helps computer machines to engage in communication using natural human language in many forms.
 
-https://github.com/Aishwarya-Selvamurugan/Aish/blob/main/AI%20gif.gif?raw=true
+<img src = "https://github.com/Aishwarya-Selvamurugan/Aish/blob/main/AI%20gif.gif?raw=true" alt = "AI">
